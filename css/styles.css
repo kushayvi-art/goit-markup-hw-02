@@ -80,7 +80,7 @@ address {
 }   
 .but:hover,
 .but:focus {
-    color: #404bbf;
+    background-color: #404bbf;
 }
 /* #endregion */
 
