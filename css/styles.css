@@ -78,8 +78,8 @@ address {
     background-color: #4D5AE5;
     color: #ffffff;
 }   
-.but:hover,
-.but:focus {
+.hero-but:hover,
+.hero-but:focus {
     background-color: #404bbf;
 }
 /* #endregion */
