@@ -72,13 +72,13 @@ address {
 .but {
     font-weight: 500;
     font-size: 56px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
     background-color: #4D5AE5;
     color: #ffffff;
-}
-.menu-item-link:hover,
-.menu-item-link:focus {
+}   
+.but:hover,
+.but:focus {
     color: #404bbf;
 }
 /* #endregion */
