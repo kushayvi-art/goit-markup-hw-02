@@ -21,7 +21,7 @@ address {
 /* #endregion */
 
 /* #region Header section */
-.logo {
+.header-logo {
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -29,7 +29,7 @@ address {
     text-transform: uppercase;
     color: #4D5AE5;
 }
-.logo-web-b {
+.header-web {
     color: #2e2f42;
 }
 .menu-item-link {
@@ -157,7 +157,7 @@ address {
 .footer {
     background-color: #2e2f42;
 }
-.logo {
+.footer-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -166,7 +166,7 @@ address {
     text-transform: uppercase;
     color: #4D5AE5;
 }
-.logo-web-w {
+.footer-web {
     color: #f4f4fd;
 }
 .footer-slogan {
